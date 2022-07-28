@@ -1,5 +1,6 @@
 # hackerrank-stuff-repo
 A repo for hackerrank solutions in case I wanna review them or smth
+I know, this shit looks dirty and unorganized af
 
 # unsolved problems
 there are some unsolved problems here which still remain unmarked, will probably do so in a while
